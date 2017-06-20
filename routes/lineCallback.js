@@ -7,9 +7,9 @@ var router = express.Router();
 var bodyParser = require('body-parser');
 var request = require("request");
 
-var CHANNEL_ID = '<YOUR CHANNEL_ID>',
-    CHANNEL_SERECT = '<YOUR CHANNEL_SERECT>',
-    MID = '<YOUR MID>';
+var CHANNEL_ID = '<1520841461>',
+    CHANNEL_SERECT = '<90bfd5c041f0d7225b750354d3651fba>';
+   
 
 
 /* POST callback listing. */
